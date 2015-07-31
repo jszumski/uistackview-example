@@ -178,12 +178,6 @@ twitterCell.layoutMarginsRelativeArrangement = true
 ## iOS 7 and 8 Support
 
 Although `UIStackView` is only available on iOS 9+, the developer community is developing [`OAStackView`](https://github.com/oarrabi/OAStackView) and [`TZStackView`](https://github.com/tomvanzummeren/TZStackView), two open source reimplementations of it on iOS 7+.  As of this writing neither one is quite ready for production use, however they will soon be good options for utilizing the layout magic of stack views on all iOS versions that support Auto Layout.
-
-
-## Source Code
-
-The full code for these examples are [available on GitHub as a Swift playground]().
-	
 	
 ### Demo
 	
